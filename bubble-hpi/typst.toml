@@ -1,0 +1,5 @@
+[package]
+name = "bubble-hpi"
+version = "0.1.0"
+entrypoint = "template.typ"
+description = "The bubble template, modified for use at the Hasso Plattner Institute."
