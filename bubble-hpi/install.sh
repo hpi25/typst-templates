@@ -21,8 +21,6 @@ VERSION=$(sed -n 's/^version *= *"\([^"]*\)".*/\1/p' "$SCRIPT_DIR/typst.toml")
 echo "Installing package of version $VERSION to $PKGDIR/hpi/bubble-hpi/$VERSION"
 
 mkdir -p "$PKGDIR/hpi/bubble-hpi/"
-
-echo "Removing any existing version..."
 rm -rf "$PKGDIR/hpi/bubble-hpi/$VERSION"
 
 echo "Copying files..."
