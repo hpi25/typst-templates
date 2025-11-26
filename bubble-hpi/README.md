@@ -18,6 +18,8 @@ Installed versions will be kept.
 
 ## Usage
 
+See the [example.pdf](./example.pdf) and [example.typ](./example.typ) files for a full example.
+
 ```typst
 #import "@hpi/bubble-hpi:0.1.0": *
 
