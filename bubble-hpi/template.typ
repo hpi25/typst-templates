@@ -29,7 +29,7 @@
   }
 
   // Save heading and body font families in variables.
-  let body-font = "Helvetica"
+  let body-font = "Source Sans Pro"
   let title-font = "Barlow"
 
   // Set colors

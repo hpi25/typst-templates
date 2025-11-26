@@ -16,6 +16,8 @@ This will install the current version into the proper folder. To install the new
 
 Installed versions will be kept.
 
+The template uses the "Barlow" and "Source Sans Pro" fonts, which are included in the [assets/fonts](./assets/fonts/) folder. If you don't want to install them, you can manually pass the path into typst using `--font-path={template-install-location}/assets/fonts`.
+
 ## Usage
 
 See the [example.pdf](./example.pdf) and [example.typ](./example.typ) files for a full example.
